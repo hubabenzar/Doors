@@ -1,12 +1,5 @@
-/*
-Course:			COMP 122
-Lecturer:		DR Russel Martin
-Title:			Assignment 4 - Ginny
-Name: 			Huba Ferenc Benzar
-Student ID:		201262833
-Email:			H.Benzar@student.Liverpool.ac.uk
-Deadline: 		16/05/2018 - 1700
-*/
+//Huba Ferenc Benzar
+
 class Ginny extends Person{
     //Person constructor outputs num this extend numDoors is num
     public Ginny(int num) {
